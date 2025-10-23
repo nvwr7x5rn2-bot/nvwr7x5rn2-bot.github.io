@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://nvwr7x5rn2-bot.github.io//sitemap.xml
